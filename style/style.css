@@ -5,12 +5,11 @@ body{
     /* position: relative; */
     display: flex;
     flex-direction: column;
-    min-height: 100vh;
     justify-content: space-between;
+    min-height: 100vh;
 }
 main {
     padding-bottom: 10em;
-    flex: 1;
 }
 
 header{
