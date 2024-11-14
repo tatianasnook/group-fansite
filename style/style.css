@@ -42,11 +42,22 @@ nav li{
     
 }
 
+.menu-link{
+    color:black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.menu-link:hover{
+    text-shadow: 1px 1px yellow;
+}
+
 footer{
     text-align: center;
     height: 5em;
     position: absolute;
     bottom: 0;
     width: 100%;
-    background-color: #f2f8e6;
+    background-color: #e4f569;
 }
