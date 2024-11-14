@@ -3,29 +3,49 @@ body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
     position: relative;
-    /* height: 100vh; */
     height: 100%;
+    /* background-color: purple; */
+
+}
+main {
+    padding-bottom: 10em;
+    /* background-color: blue; */
 }
 
 header{
     text-align: center;
-    background-color: #f2f8e6;
+    height: 175px;
+    background-color: #436105;
+    /* background-color: #f2f8e6; */
+    background-image: url("../assets/window2.jpg");
+    background-size: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
     padding: 1em;
 }
 
 h1{
     margin: 0;
-    font-family: fantasy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* background-color: #436105; */
+    text-shadow: 2px 2px yellow;
+    
+
 }
 
 nav li{
     display: inline;
-    padding: 0 3em;
+    padding: .25em 2em;
+    margin: 10px;
+    background-color: green;
+    opacity: .9;
+    
 }
 
 footer{
+    text-align: center;
     height: 5em;
-    position: fixed;
+    position: absolute;
     bottom: 0;
     width: 100%;
     background-color: #f2f8e6;
