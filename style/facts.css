@@ -4,3 +4,15 @@ h2 {
     text-shadow: 2px 2px yellow;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    width: 83%;
+    flex-wrap: wrap;
+}
+
+
