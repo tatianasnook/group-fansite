@@ -55,6 +55,7 @@ section ul p{
     animation: float 6s ease-in-out infinite;
     /* background-color: beige; */
     /* border-radius: 80%; */
+    place-self: center;
 }
 
 @keyframes float {
