@@ -7,7 +7,9 @@ body{
     flex-direction: column;
     justify-content: space-between;
     min-height: 100vh;
+    
 }
+
 main {
     padding-bottom: 10em;
 }
@@ -35,8 +37,9 @@ nav li{
     padding: .25em 2em;
     margin: 10px;
     background-color: green;
-    opacity: .9;
+    opacity: .9;  
 }
+
 
 .menu-link{
     color:black;
