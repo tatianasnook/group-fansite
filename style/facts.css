@@ -2,6 +2,7 @@ h2 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
     text-shadow: 2px 2px yellow;
+    font-size: 30px;
 }
 
 img {
@@ -11,8 +12,9 @@ img {
 }
 
 li {
-    width: 83%;
+    width: 95%;
     flex-wrap: wrap;
+    font-size: 20px;
 }
 
 
