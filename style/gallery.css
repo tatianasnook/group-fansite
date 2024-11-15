@@ -1,20 +1,46 @@
 main{
     text-align: center;
-    padding: 0 40px 40px 40px;
+    padding-bottom: 40px;
+}
+section {
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 article {
-    margin-top: 60px;
+    margin-top: 80px;
+}
+
+.container{
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.extra{
+    flex-direction: row-reverse;
+}
+
+article img {
+    width: 400px;
+}
+
+.text {
+    width: 400px;
 }
 
 article p {
     line-height: 30px;
+    text-align: justify;
+    margin-top: 0;
 }
 
 .plant-link {
-    color: green;
+    color: rgb(2, 167, 2);
+    font-size: 18px;
 }
 
 .plant-link:hover{
-    color: red;
+    color: rgb(1, 66, 1);
 }
