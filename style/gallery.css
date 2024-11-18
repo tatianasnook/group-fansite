@@ -14,7 +14,7 @@ section {
     justify-content: center;
 }
 
-.extra{
+.reverse{
     flex-direction: row-reverse;
 }
 
