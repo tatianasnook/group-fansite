@@ -11,6 +11,10 @@ img {
     margin-right: auto;
 }
 
+ul {
+    list-style: none
+ }
+
 li {
     width: 95%;
     flex-wrap: wrap;
